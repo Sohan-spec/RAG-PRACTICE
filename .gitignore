@@ -1,0 +1,5 @@
+.venv
+uv.lock
+.python-version
+data/vector_store
+data/pdf/LOS_Question_Bank.pdf

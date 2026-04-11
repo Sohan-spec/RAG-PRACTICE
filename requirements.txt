@@ -1,0 +1,11 @@
+langchain-community
+langchain
+pypdf
+pymupdf
+faiss-cpu
+chromadb
+langchain-core
+onnxruntime==1.17.0
+sentence-transformers
+numpy
+scikit-learn
