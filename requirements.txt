@@ -9,3 +9,4 @@ onnxruntime==1.17.0
 sentence-transformers
 numpy
 scikit-learn
+langchain-text-splitters
