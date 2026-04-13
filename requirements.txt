@@ -10,3 +10,4 @@ sentence-transformers
 numpy
 scikit-learn
 langchain-text-splitters
+ollama
