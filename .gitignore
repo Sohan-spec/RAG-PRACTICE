@@ -2,4 +2,6 @@
 uv.lock
 .python-version
 data/vector_store
-data/pdf/LOS_Question_Bank.pdf
+data/pdf
+data/text_files
+venv

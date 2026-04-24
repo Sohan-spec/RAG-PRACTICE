@@ -5,7 +5,7 @@ pymupdf
 faiss-cpu
 chromadb
 langchain-core
-onnxruntime==1.17.0
+onnxruntime
 sentence-transformers
 numpy
 scikit-learn
